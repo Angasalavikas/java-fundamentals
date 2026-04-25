@@ -2,7 +2,7 @@ package com.java.fundamentals;
 
 public class HelloWorld {
     static void main(String[] args) {
-        System.out.println("im vikas");
+        System.out.println("vikas");
     }
 
 }
