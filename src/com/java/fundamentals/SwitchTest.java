@@ -3,10 +3,10 @@ import java.util.Scanner;
 
 public class SwitchTest {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in); // Lowercase 'sc'
+        Scanner sc = new Scanner(System.in);
 
         if (sc.hasNextInt()) {
-            int day = sc.nextInt(); // Use lowercase 'sc' here too
+            int day = sc.nextInt();
 
             switch(day) {
                 case 1:
