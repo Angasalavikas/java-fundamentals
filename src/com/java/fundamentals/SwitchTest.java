@@ -22,7 +22,7 @@ public class SwitchTest {
                     System.out.println("April");
                     break;
                 case 5:
-                    System.out.println("may");
+                    System.out.println("May");
                     break;
                 case 6:
                     System.out.println("June");
