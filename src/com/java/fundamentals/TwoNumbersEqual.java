@@ -14,6 +14,5 @@ public class TwoNumbersEqual {
            System.out.println("not equal");
        }
        }
-
     }
 
