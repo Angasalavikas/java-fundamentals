@@ -15,5 +15,6 @@ public class IfTest {
         else{
             System.out.println("Zero");
         }
+        sc.close();
     }
 }
