@@ -3,7 +3,7 @@ package com.java.fundamentals;
 import java.util.Scanner;
 
 public class Primitives {
-    public static void main() {
+    static void main() {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter ID: 47377");
         int ID = sc.nextInt();
