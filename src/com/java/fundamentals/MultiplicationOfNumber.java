@@ -8,8 +8,8 @@ public class MultiplicationOfNumber {
         System.out.println("enter the value:");
         int N = sc.nextInt();
         System.out.println("print multiplication:" + N);
-        for(int i = 0;i <= 10;i++){
-            System.out.println(N +"x" + i + "="+ (N * i));
+        for (int i = 0; i <= 10; i++) {
+            System.out.println(N + "x" + i + "=" + (N * i));
         }
     }
 }
