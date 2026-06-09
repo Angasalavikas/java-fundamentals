@@ -6,12 +6,11 @@ public class CountOfNumbers {
     static void main() {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter the value:");
-        long N = sc.nextLong();
+        long num = sc.nextLong();
         int Count = 0;
-        while(N !=0) {
-            N = N / 10;
+        while(num !=0) {
+            num = num / 10;
             Count++;
-
         }
         System.out.println("print count:" + Count);
     }
