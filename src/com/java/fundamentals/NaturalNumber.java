@@ -8,7 +8,7 @@ public class NaturalNumber {
         System.out.println("enter the value :");
         int num = sc.nextInt();
         System.out.println("print natural numbers:");
-        for (int i = num; i >= 1; i--){
+        for (int i = 0; i <=num; i++){
             System.out.println(i);
         }
     }
