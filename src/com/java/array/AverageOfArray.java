@@ -8,7 +8,7 @@ public class AverageOfArray {
             sum += arr[i];
 
         }
-        double average = (double) sum / arr.length;
+        double average =  sum / arr.length;
         System.out.println("average: " + average);
     }
 }
