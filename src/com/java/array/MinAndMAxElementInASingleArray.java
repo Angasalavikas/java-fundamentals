@@ -1,6 +1,6 @@
 package com.java.array;
 
-public class MinAndMAxInASingleArray {
+public class MinAndMAxElementInASingleArray {
     static void main() {
         int[] arr = {10,20,30,40,50,60};
         int min = arr[0];
