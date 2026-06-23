@@ -7,7 +7,6 @@ public class SwitchTest {
 
         if (sc.hasNextInt()) {
             int day = sc.nextInt();
-
             switch(day) {
                 case 1:
                 System.out.println("January");
