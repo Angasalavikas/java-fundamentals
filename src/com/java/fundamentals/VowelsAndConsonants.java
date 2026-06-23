@@ -13,7 +13,8 @@ public class VowelsAndConsonants {
             char ch = Character.toLowerCase(str.charAt(i));
             if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
                 vowels++;
-            } else if (ch >= 'a' && ch <= 'z') {
+            }
+            else if (ch >= 'a' && ch <= 'z') {
                 consonants++;
             }
         }
