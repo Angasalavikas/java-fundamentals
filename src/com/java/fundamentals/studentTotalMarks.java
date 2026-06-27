@@ -3,7 +3,6 @@ package com.java.fundamentals;
 import java.util.Scanner;
 public class studentTotalMarks {
     public static void main(String[] args) {
-
         Scanner sc = new Scanner(System.in);
         System.out.println("enter the sub1 marks: ");
         int sub1marks = sc.nextInt();
