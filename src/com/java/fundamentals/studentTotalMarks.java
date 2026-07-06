@@ -14,5 +14,6 @@ public class studentTotalMarks {
         int sub4marks = sc.nextInt();
         int total = sub1marks + sub2marks + sub3marks + sub4marks;
         System.out.println("total marks: " + total);
+
     }
 }
