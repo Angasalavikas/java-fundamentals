@@ -15,7 +15,6 @@ public class SubArray {
             int sum = 0;
             for (int j = i; j < n; j++) {
                 sum += arr[j];
-
                 if (sum < 0) {
                     count++;
                 }
