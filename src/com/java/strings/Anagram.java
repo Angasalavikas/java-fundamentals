@@ -13,7 +13,8 @@ public class Anagram {
         Arrays.sort(b);
         if(Arrays.equals(a,b)){
             System.out.println("anagram");
-        }else{
+        }
+        else{
             System.out.println("not an anagram");
         }
     }
