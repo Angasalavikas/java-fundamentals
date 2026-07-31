@@ -13,6 +13,7 @@ public class ReverseOfNumber {
             reverse = reverse * 10 + digit;
             num /= 10;
         }
+
         System.out.println("reverse : " + reverse);
     }
 }
