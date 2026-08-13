@@ -9,7 +9,6 @@ public class CopyOneToAnotherArray {
         }
         System.out.println("copy array");
         for(int i = 0;i < arr1.length;i++){
-
             System.out.print(arr1[i] + ",");
         }
     }
