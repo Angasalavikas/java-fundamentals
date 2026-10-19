@@ -8,8 +8,7 @@ public class CopyOneToAnotherArray {
             arr1[i] = arr[i];
         }
         System.out.println("copy array");
-        for(int i = 0;i < arr1.length;i++)
-        {
+        for(int i = 0;i < arr1.length;i++) {
             System.out.print(arr1[i] + ",");
         }
     }
